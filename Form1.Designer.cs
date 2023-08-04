@@ -28,19 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             DisableKeyboardBtn = new CheckBox();
             label1 = new Label();
+            settingsButton = new Button();
             SuspendLayout();
             // 
             // DisableKeyboardBtn
             // 
             DisableKeyboardBtn.AutoSize = true;
             DisableKeyboardBtn.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            DisableKeyboardBtn.Location = new Point(72, 159);
+            DisableKeyboardBtn.Location = new Point(37, 218);
+            DisableKeyboardBtn.Margin = new Padding(3, 4, 3, 4);
             DisableKeyboardBtn.Name = "DisableKeyboardBtn";
-            DisableKeyboardBtn.Size = new Size(157, 25);
+            DisableKeyboardBtn.Size = new Size(312, 32);
             DisableKeyboardBtn.TabIndex = 0;
-            DisableKeyboardBtn.Text = "Lock My Keyboard";
+            DisableKeyboardBtn.Text = "Lock My Keyboard For Cleaning";
             DisableKeyboardBtn.UseVisualStyleBackColor = true;
             DisableKeyboardBtn.CheckedChanged += DisableKeyboardBtn_CheckedChanged;
             // 
@@ -49,22 +52,32 @@
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point);
             label1.ForeColor = SystemColors.ControlText;
-            label1.Location = new Point(36, 71);
+            label1.Location = new Point(41, 95);
             label1.Name = "label1";
-            label1.Size = new Size(251, 32);
+            label1.Size = new Size(308, 41);
             label1.TabIndex = 1;
             label1.Text = "Keyboard Cleaner v1";
             // 
+            // settingsButton
+            // 
+            settingsButton.Location = new Point(238, 318);
+            settingsButton.Name = "settingsButton";
+            settingsButton.Size = new Size(94, 29);
+            settingsButton.TabIndex = 2;
+            settingsButton.Text = "Settings";
+            settingsButton.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(323, 290);
+            ClientSize = new Size(369, 387);
+            Controls.Add(settingsButton);
             Controls.Add(label1);
             Controls.Add(DisableKeyboardBtn);
-            Margin = new Padding(3, 2, 3, 2);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
-            Text = "Form1";
+            Text = "KeyboardCleanerV1";
             ResumeLayout(false);
             PerformLayout();
         }
@@ -73,5 +86,6 @@
 
         private CheckBox DisableKeyboardBtn;
         private Label label1;
+        private Button settingsButton;
     }
 }

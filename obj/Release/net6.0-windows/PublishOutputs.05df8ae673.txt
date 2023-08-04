@@ -1,0 +1,5 @@
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\bin\Release\net6.0-windows\publish\KeyboardCleaner.exe
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\bin\Release\net6.0-windows\publish\KeyboardCleaner.dll
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\bin\Release\net6.0-windows\publish\KeyboardCleaner.deps.json
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\bin\Release\net6.0-windows\publish\KeyboardCleaner.runtimeconfig.json
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\bin\Release\net6.0-windows\publish\KeyboardCleaner.pdb

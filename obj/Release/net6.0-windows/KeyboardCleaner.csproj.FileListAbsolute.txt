@@ -1,0 +1,17 @@
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\bin\Release\net6.0-windows\KeyboardCleaner.exe
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\bin\Release\net6.0-windows\KeyboardCleaner.deps.json
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\bin\Release\net6.0-windows\KeyboardCleaner.runtimeconfig.json
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\bin\Release\net6.0-windows\KeyboardCleaner.dll
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\bin\Release\net6.0-windows\KeyboardCleaner.pdb
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\obj\Release\net6.0-windows\KeyboardCleaner.csproj.AssemblyReference.cache
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\obj\Release\net6.0-windows\KeyboardCleaner.Form1.resources
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\obj\Release\net6.0-windows\KeyboardCleaner.csproj.GenerateResource.cache
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\obj\Release\net6.0-windows\KeyboardCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\obj\Release\net6.0-windows\KeyboardCleaner.AssemblyInfoInputs.cache
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\obj\Release\net6.0-windows\KeyboardCleaner.AssemblyInfo.cs
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\obj\Release\net6.0-windows\KeyboardCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\obj\Release\net6.0-windows\KeyboardCleaner.dll
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\obj\Release\net6.0-windows\refint\KeyboardCleaner.dll
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\obj\Release\net6.0-windows\KeyboardCleaner.pdb
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\obj\Release\net6.0-windows\KeyboardCleaner.genruntimeconfig.cache
+C:\Users\Richard Dammara\Documents\Software Projects\KeyboardCleanerV1\obj\Release\net6.0-windows\ref\KeyboardCleaner.dll

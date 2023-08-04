@@ -58,6 +58,14 @@ namespace KeyboardCleaner
             keyboardEnabled = !DisableKeyboardBtn.Checked;
         }
 
+        private void settingsButton_Click(object sender, EventArgs e)
+        {
+            using (settings settingsForm = new settings())
+            {
+                settingsForm.ShowDialog();
+            }
+        }
+
         protected override void OnFormClosing(FormClosingEventArgs e)
         {
             if (_hookID != IntPtr.Zero)
